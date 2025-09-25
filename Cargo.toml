@@ -1,0 +1,13 @@
+[package]
+name = "xreal_one_driver"
+version = "0.1.0"
+edition = "2021"
+authors = ["Rohit Sangwan <rohitsangwan647@gmail.com>"]
+description = "A Rust driver for XReal One AR glasses IMU data"
+license = "MIT"
+repository = "https://github.com/rohitsangwan/xreal_one_driver"
+keywords = ["xreal", "ar", "imu", "driver", "glasses"]
+categories = ["hardware-support", "multimedia"]
+
+[dependencies]
+byteorder = "1.4"
